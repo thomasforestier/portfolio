@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+ <title>Articles à consulter</title>
+    <link>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0101/</link>
+    <description>premier article</description>
+
+<item>
+<title>Artcile 2</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/</link>
+    <description>deuxième article</description>
+</item>
+
+<item>
+<title>Artcile 3</title>
+    <link>https://www.cnil.fr/fr/surveillance-des-salaries-la-cnil-sanctionne-amazon-france-logistique-dune-amende-de-32-millions/</link>
+    <description>troisième article</description>
+</item>
+ 
+  </channel>
+</rss>
