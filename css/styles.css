@@ -11239,7 +11239,7 @@ header.masthead .masthead-heading {
   }
 }
 .team-member {
-  padding-left: 50%;
+  position: center;
   margin-bottom: 3rem;
   text-align: center;
 }
